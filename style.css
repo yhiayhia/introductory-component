@@ -7,7 +7,7 @@
 		src:url('fonts/poppins-thin.ttf')format('truetype');
 	}
 	body{
-		background-image:url("images/bg-intro-mobile.png");
+		background-image:url("images./bg-intro-mobile.png");
 		background-color:hsl(0, 100%, 74%) ;
 			
 	}
@@ -90,6 +90,7 @@
 		border-style: solid;
 		border-width: 1px;
 		border-color: hsl(249, 1%, 50%);
+                outline:none;
 	}
 
 		.error{
@@ -229,6 +230,7 @@
 		border-style: solid;
 		border-width: 1px;
 		border-color: hsl(249, 1%, 50%);
+                outline:none;
 	}
 	.error{
 		background-image: url('images/icon-error.svg');
